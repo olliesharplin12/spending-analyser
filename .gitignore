@@ -1,1 +1,5 @@
-Transaction Exports
+**/__pycache__
+
+exports
+spending.db*
+auth/splitwise.py
